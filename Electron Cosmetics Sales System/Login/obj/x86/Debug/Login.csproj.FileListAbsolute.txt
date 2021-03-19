@@ -1,0 +1,324 @@
+C:/Users/Kwang Yuen/Desktop/Assignment/Login/bin/Debug/Database.sdf
+C:/Users/Kwang Yuen/Desktop/Assignment/Login/bin/Debug/Login.exe.config
+C:/Users/Kwang Yuen/Desktop/Assignment/Login/bin/Debug/Login.exe
+C:/Users/Kwang Yuen/Desktop/Assignment/Login/bin/Debug/Login.pdb
+C:/Users/Kwang Yuen/Desktop/Assignment/Login/obj/x86/Debug/Login.Login.resources
+C:/Users/Kwang Yuen/Desktop/Assignment/Login/obj/x86/Debug/Login.Properties.Resources.resources
+C:/Users/Kwang Yuen/Desktop/Assignment/Login/obj/x86/Debug/Login.Welcome.resources
+C:/Users/Kwang Yuen/Desktop/Assignment/Login/obj/x86/Debug/Login.csproj.GenerateResource.Cache
+C:/Users/Kwang Yuen/Desktop/Assignment/Login/obj/x86/Debug/Login.exe
+C:/Users/Kwang Yuen/Desktop/Assignment/Login/obj/x86/Debug/Login.pdb
+C:/Users/Kwang Yuen/Desktop/Assignment/Login/obj/x86/Debug/Login.csprojResolveAssemblyReference.cache
+C:/Users/Kwang Yuen/Desktop/Assignment/Login/obj/x86/Debug/Login.Main.resources
+//Client/E$/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment1.0/Login/bin/Debug/Login.exe.config
+//Client/E$/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment1.0/Login/obj/x86/Debug/Login.exe
+//Client/E$/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment1.0/Login/obj/x86/Debug/Login.pdb
+//Client/E$/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment1.0/Login/obj/x86/Debug/Login.csprojResolveAssemblyReference.cache
+//Client/E$/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment1.0/Login/obj/x86/Debug/Login.Login.resources
+//Client/E$/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment1.0/Login/obj/x86/Debug/Login.Main.resources
+//Client/E$/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment1.0/Login/obj/x86/Debug/Login.Properties.Resources.resources
+//Client/E$/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment1.0/Login/obj/x86/Debug/Login.Welcome.resources
+//Client/E$/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment1.0/Login/obj/x86/Debug/Login.csproj.GenerateResource.Cache
+//Client/E$/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment1.0/Login/bin/Debug/Database.sdf
+//Client/E$/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment1.0/Login/bin/Debug/Login.exe
+//Client/E$/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment1.0/Login/bin/Debug/Login.pdb
+C:/Users/Kwang Yuen/Desktop/Assignment1.0/Login/bin/Debug/Login.exe.config
+C:/Users/Kwang Yuen/Desktop/Assignment1.0/Login/obj/x86/Debug/Login.exe
+C:/Users/Kwang Yuen/Desktop/Assignment1.0/Login/obj/x86/Debug/Login.pdb
+C:/Users/Kwang Yuen/Desktop/Assignment1.0/Login/bin/Debug/Database.sdf
+C:/Users/Kwang Yuen/Desktop/Assignment1.0/Login/bin/Debug/Login.exe
+C:/Users/Kwang Yuen/Desktop/Assignment1.0/Login/bin/Debug/Login.pdb
+C:/Users/Kwang Yuen/Desktop/Assignment1.0/Login/obj/x86/Debug/Login.csprojResolveAssemblyReference.cache
+C:/Users/Kwang Yuen/Desktop/Assignment1.0/Login/obj/x86/Debug/Login.Login.resources
+C:/Users/Kwang Yuen/Desktop/Assignment1.0/Login/obj/x86/Debug/Login.Main.resources
+C:/Users/Kwang Yuen/Desktop/Assignment1.0/Login/obj/x86/Debug/Login.Properties.Resources.resources
+C:/Users/Kwang Yuen/Desktop/Assignment1.0/Login/obj/x86/Debug/Login.Welcome.resources
+C:/Users/Kwang Yuen/Desktop/Assignment1.0/Login/obj/x86/Debug/Login.csproj.GenerateResource.Cache
+C:/Users/15002082/Desktop/Assignment2.0/Login/bin/Debug/Login.exe.config
+C:/Users/15002082/Desktop/Assignment2.0/Login/obj/x86/Debug/Login.exe
+C:/Users/15002082/Desktop/Assignment2.0/Login/obj/x86/Debug/Login.pdb
+C:/Users/15002082/Desktop/Assignment2.0/Login/bin/Debug/Database.sdf
+C:/Users/15002082/Desktop/Assignment2.0/Login/bin/Debug/Login.exe
+C:/Users/15002082/Desktop/Assignment2.0/Login/bin/Debug/Login.pdb
+C:/Users/15002082/Desktop/Assignment2.0/Login/obj/x86/Debug/Login.csprojResolveAssemblyReference.cache
+C:/Users/15002082/Desktop/Assignment2.0/Login/obj/x86/Debug/Login.Login.resources
+C:/Users/15002082/Desktop/Assignment2.0/Login/obj/x86/Debug/Login.Main.resources
+C:/Users/15002082/Desktop/Assignment2.0/Login/obj/x86/Debug/Login.Properties.Resources.resources
+C:/Users/15002082/Desktop/Assignment2.0/Login/obj/x86/Debug/Login.Welcome.resources
+C:/Users/15002082/Desktop/Assignment2.0/Login/obj/x86/Debug/Login.csproj.GenerateResource.Cache
+E:/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.0/Login/bin/Debug/Login.exe.config
+E:/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.0/Login/obj/x86/Debug/Login.exe
+E:/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.0/Login/obj/x86/Debug/Login.pdb
+E:/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.0/Login/bin/Debug/Database.sdf
+E:/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.0/Login/bin/Debug/Login.exe
+E:/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.0/Login/bin/Debug/Login.pdb
+E:/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.0/Login/obj/x86/Debug/Login.csprojResolveAssemblyReference.cache
+E:/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.0/Login/obj/x86/Debug/Login.Login.resources
+E:/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.0/Login/obj/x86/Debug/Login.Main.resources
+E:/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.0/Login/obj/x86/Debug/Login.Properties.Resources.resources
+E:/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.0/Login/obj/x86/Debug/Login.Welcome.resources
+E:/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.0/Login/obj/x86/Debug/Login.csproj.GenerateResource.Cache
+//Client/E$/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.0/Login/bin/Debug/Database.sdf
+//Client/E$/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.0/Login/bin/Debug/Login.exe.config
+//Client/E$/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.0/Login/bin/Debug/Login.exe
+//Client/E$/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.0/Login/bin/Debug/Login.pdb
+//Client/E$/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.0/Login/obj/x86/Debug/Login.csprojResolveAssemblyReference.cache
+//Client/E$/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.0/Login/obj/x86/Debug/Login.Login.resources
+//Client/E$/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.0/Login/obj/x86/Debug/Login.Main.resources
+//Client/E$/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.0/Login/obj/x86/Debug/Login.Properties.Resources.resources
+//Client/E$/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.0/Login/obj/x86/Debug/Login.Welcome.resources
+//Client/E$/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.0/Login/obj/x86/Debug/Login.csproj.GenerateResource.Cache
+//Client/E$/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.0/Login/obj/x86/Debug/Login.exe
+//Client/E$/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.0/Login/obj/x86/Debug/Login.pdb
+G:/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.0/Login/bin/Debug/Login.exe.config
+G:/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.0/Login/obj/x86/Debug/Login.exe
+G:/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.0/Login/obj/x86/Debug/Login.pdb
+G:/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.0/Login/obj/x86/Debug/Login.csprojResolveAssemblyReference.cache
+G:/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.0/Login/obj/x86/Debug/Login.Login.resources
+G:/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.0/Login/obj/x86/Debug/Login.Main.resources
+G:/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.0/Login/obj/x86/Debug/Login.Properties.Resources.resources
+G:/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.0/Login/obj/x86/Debug/Login.Welcome.resources
+G:/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.0/Login/obj/x86/Debug/Login.csproj.GenerateResource.Cache
+D:/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.0/Login/bin/Debug/Login.exe.config
+D:/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.0/Login/obj/x86/Debug/Login.exe
+D:/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.0/Login/obj/x86/Debug/Login.pdb
+C:/Users/15024490/Desktop/Assignment2.0/Login/bin/Debug/Login.exe.config
+C:/Users/15024490/Desktop/Assignment2.0/Login/obj/x86/Debug/Login.exe
+C:/Users/15024490/Desktop/Assignment2.0/Login/obj/x86/Debug/Login.pdb
+C:/Users/15024490/Desktop/Assignment2.0/Login/bin/Debug/Database.sdf
+C:/Users/15024490/Desktop/Assignment2.0/Login/bin/Debug/Login.exe
+C:/Users/15024490/Desktop/Assignment2.0/Login/bin/Debug/Login.pdb
+C:/Users/15024490/Desktop/Assignment2.0/Login/obj/x86/Debug/Login.csprojResolveAssemblyReference.cache
+C:/Users/15024490/Desktop/Assignment2.0/Login/obj/x86/Debug/Login.Login.resources
+C:/Users/15024490/Desktop/Assignment2.0/Login/obj/x86/Debug/Login.Main.resources
+C:/Users/15024490/Desktop/Assignment2.0/Login/obj/x86/Debug/Login.Properties.Resources.resources
+C:/Users/15024490/Desktop/Assignment2.0/Login/obj/x86/Debug/Login.Welcome.resources
+C:/Users/15024490/Desktop/Assignment2.0/Login/obj/x86/Debug/Login.csproj.GenerateResource.Cache
+C:/Users/15024490/Desktop/Assignment2.1/Login/bin/Debug/Login.exe.config
+C:/Users/15024490/Desktop/Assignment2.1/Login/obj/x86/Debug/Login.exe
+C:/Users/15024490/Desktop/Assignment2.1/Login/obj/x86/Debug/Login.pdb
+C:/Users/15024490/Desktop/Assignment2.1/Login/bin/Debug/Database.sdf
+C:/Users/15024490/Desktop/Assignment2.1/Login/bin/Debug/Login.exe
+C:/Users/15024490/Desktop/Assignment2.1/Login/bin/Debug/Login.pdb
+C:/Users/15024490/Desktop/Assignment2.1/Login/obj/x86/Debug/Login.csprojResolveAssemblyReference.cache
+C:/Users/15024490/Desktop/Assignment2.1/Login/obj/x86/Debug/Login.Main.resources
+C:/Users/15024490/Desktop/Assignment2.1/Login/obj/x86/Debug/Login.Properties.Resources.resources
+C:/Users/15024490/Desktop/Assignment2.1/Login/obj/x86/Debug/Login.csproj.GenerateResource.Cache
+C:/Users/Kwang Yuen/Desktop/Assignment2.1/Login/bin/Debug/Login.exe.config
+C:/Users/Kwang Yuen/Desktop/Assignment2.1/Login/obj/x86/Debug/Login.exe
+C:/Users/Kwang Yuen/Desktop/Assignment2.1/Login/obj/x86/Debug/Login.pdb
+C:/Users/Kwang Yuen/Desktop/Assignment2.1/Login/bin/Debug/Database.sdf
+C:/Users/Kwang Yuen/Desktop/Assignment2.1/Login/bin/Debug/Login.exe
+C:/Users/Kwang Yuen/Desktop/Assignment2.1/Login/bin/Debug/Login.pdb
+C:/Users/Kwang Yuen/Desktop/Assignment2.1/Login/obj/x86/Debug/Login.csprojResolveAssemblyReference.cache
+C:/Users/Kwang Yuen/Desktop/Assignment2.1/Login/obj/x86/Debug/Login.Main.resources
+C:/Users/Kwang Yuen/Desktop/Assignment2.1/Login/obj/x86/Debug/Login.Properties.Resources.resources
+C:/Users/Kwang Yuen/Desktop/Assignment2.1/Login/obj/x86/Debug/Login.csproj.GenerateResource.Cache
+C:/Users/Kwang Yuen/Desktop/Assignment2.2/Login/bin/Debug/Login.exe.config
+C:/Users/Kwang Yuen/Desktop/Assignment2.2/Login/obj/x86/Debug/Login.exe
+C:/Users/Kwang Yuen/Desktop/Assignment2.2/Login/obj/x86/Debug/Login.pdb
+C:/Users/Kwang Yuen/Desktop/Assignment2.2/Login/bin/Debug/Database.sdf
+C:/Users/Kwang Yuen/Desktop/Assignment2.2/Login/bin/Debug/Login.exe
+C:/Users/Kwang Yuen/Desktop/Assignment2.2/Login/bin/Debug/Login.pdb
+C:/Users/Kwang Yuen/Desktop/Assignment2.2/Login/obj/x86/Debug/Login.csprojResolveAssemblyReference.cache
+C:/Users/Kwang Yuen/Desktop/Assignment2.2/Login/obj/x86/Debug/Login.Main.resources
+C:/Users/Kwang Yuen/Desktop/Assignment2.2/Login/obj/x86/Debug/Login.Properties.Resources.resources
+C:/Users/Kwang Yuen/Desktop/Assignment2.2/Login/obj/x86/Debug/Login.csproj.GenerateResource.Cache
+/Volumes/KWANGYUEN/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.2/Login/obj/x86/Debug/Login.csprojResolveAssemblyReference.cache
+/Volumes/KWANGYUEN/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.2/Login/obj/x86/Debug/Login.Main.resources
+/Volumes/KWANGYUEN/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.2/Login/obj/x86/Debug/Login.Properties.Resources.resources
+/Volumes/KWANGYUEN/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.2/Login/obj/x86/Debug/Login.csproj.GenerateResource.Cache
+/Volumes/KWANGYUEN/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.2/Login/obj/x86/Debug/Login.csproj.CoreCompileInputs.cache
+/Volumes/KWANGYUEN/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.2/Login/obj/x86/Debug/Login.exe
+/Volumes/KWANGYUEN/Computer Science/Year 2/Sem 6/C#/Assingment/Assignment2.2/Login/obj/x86/Debug/Login.pdb
+D:\Computer Science\Year 2\Sem 6\C#\Assingment\Assignment2.2\Login\bin\Debug\Login.exe.config
+D:\Computer Science\Year 2\Sem 6\C#\Assingment\Assignment2.2\Login\obj\x86\Debug\Login.exe
+D:\Computer Science\Year 2\Sem 6\C#\Assingment\Assignment2.2\Login\obj\x86\Debug\Login.pdb
+D:\Computer Science\Year 2\Sem 6\C#\Assingment\Assignment2.2\Login\bin\Debug\Database.sdf
+D:\Computer Science\Year 2\Sem 6\C#\Assingment\Assignment2.2\Login\bin\Debug\Login.exe
+D:\Computer Science\Year 2\Sem 6\C#\Assingment\Assignment2.2\Login\bin\Debug\Login.pdb
+D:\Computer Science\Year 2\Sem 6\C#\Assingment\Assignment2.2\Login\obj\x86\Debug\Login.csprojResolveAssemblyReference.cache
+D:\Computer Science\Year 2\Sem 6\C#\Assingment\Assignment2.2\Login\obj\x86\Debug\Login.Main.resources
+D:\Computer Science\Year 2\Sem 6\C#\Assingment\Assignment2.2\Login\obj\x86\Debug\Login.Properties.Resources.resources
+D:\Computer Science\Year 2\Sem 6\C#\Assingment\Assignment2.2\Login\obj\x86\Debug\Login.csproj.GenerateResource.Cache
+C:\Users\15002082\Desktop\Assignment2.2\Login\bin\Debug\Login.exe.config
+C:\Users\15002082\Desktop\Assignment2.2\Login\obj\x86\Debug\Login.exe
+C:\Users\15002082\Desktop\Assignment2.2\Login\obj\x86\Debug\Login.pdb
+C:\Users\15002082\Desktop\Assignment2.2\Login\bin\Debug\Database.sdf
+C:\Users\15002082\Desktop\Assignment2.2\Login\bin\Debug\Login.exe
+C:\Users\15002082\Desktop\Assignment2.2\Login\bin\Debug\Login.pdb
+C:\Users\15002082\Desktop\Assignment2.2\Login\obj\x86\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\15002082\Desktop\Assignment2.2\Login\obj\x86\Debug\Login.Main.resources
+C:\Users\15002082\Desktop\Assignment2.2\Login\obj\x86\Debug\Login.Properties.Resources.resources
+C:\Users\15002082\Desktop\Assignment2.2\Login\obj\x86\Debug\Login.csproj.GenerateResource.Cache
+C:\Users\15002082\Desktop\Assignment2.2\Login\obj\x86\Debug\Login.LoginRecordWindow.resources
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Assignment2.2.3\Login\bin\Debug\Login.exe.config
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Assignment2.2.3\Login\obj\x86\Debug\Login.exe
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Assignment2.2.3\Login\obj\x86\Debug\Login.pdb
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Assignment2.2.3\Login\bin\Debug\Database.sdf
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Assignment2.2.3\Login\bin\Debug\Login.exe
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Assignment2.2.3\Login\bin\Debug\Login.pdb
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Assignment2.2.3\Login\obj\x86\Debug\Login.csprojResolveAssemblyReference.cache
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Assignment2.2.3\Login\obj\x86\Debug\Login.LoginRecordWindow.resources
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Assignment2.2.3\Login\obj\x86\Debug\Login.Main.resources
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Assignment2.2.3\Login\obj\x86\Debug\Login.Properties.Resources.resources
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Assignment2.2.3\Login\obj\x86\Debug\Login.csproj.GenerateResource.Cache
+C:\Users\15002082\Desktop\Assignment2.2.3\Login\bin\Debug\Login.exe.config
+C:\Users\15002082\Desktop\Assignment2.2.3\Login\obj\x86\Debug\Login.exe
+C:\Users\15002082\Desktop\Assignment2.2.3\Login\obj\x86\Debug\Login.pdb
+C:\Users\15002082\Desktop\Assignment2.2.3\Login\bin\Debug\Database.sdf
+C:\Users\15002082\Desktop\Assignment2.2.3\Login\bin\Debug\Login.exe
+C:\Users\15002082\Desktop\Assignment2.2.3\Login\bin\Debug\Login.pdb
+C:\Users\15002082\Desktop\Assignment2.2.3\Login\obj\x86\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\15002082\Desktop\Assignment2.2.3\Login\obj\x86\Debug\Login.LoginRecordWindow.resources
+C:\Users\15002082\Desktop\Assignment2.2.3\Login\obj\x86\Debug\Login.Main.resources
+C:\Users\15002082\Desktop\Assignment2.2.3\Login\obj\x86\Debug\Login.Properties.Resources.resources
+C:\Users\15002082\Desktop\Assignment2.2.3\Login\obj\x86\Debug\Login.csproj.GenerateResource.Cache
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.4\Login\bin\Debug\Login.exe.config
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.4\Login\obj\x86\Debug\Login.exe
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.4\Login\obj\x86\Debug\Login.pdb
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.4\Login\bin\Debug\Database.sdf
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.4\Login\bin\Debug\Login.exe
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.4\Login\bin\Debug\Login.pdb
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.4\Login\obj\x86\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.4\Login\obj\x86\Debug\Login.LoginRecordWindow.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.4\Login\obj\x86\Debug\Login.Main.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.4\Login\obj\x86\Debug\Login.Properties.Resources.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.4\Login\obj\x86\Debug\Login.csproj.GenerateResource.Cache
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.4\Login\obj\x86\Debug\Login.NewProductWindow.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.4\Login\obj\x86\Debug\Login.SalesReportWindow.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.5\Login\bin\Debug\Database.sdf
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.5\Login\bin\Debug\Login.exe.config
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.5\Login\bin\Debug\Login.exe
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.5\Login\bin\Debug\Login.pdb
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.5\Login\obj\x86\Debug\Login.LoginRecordWindow.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.5\Login\obj\x86\Debug\Login.Main.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.5\Login\obj\x86\Debug\Login.NewProductWindow.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.5\Login\obj\x86\Debug\Login.Properties.Resources.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.5\Login\obj\x86\Debug\Login.SalesReportWindow.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.5\Login\obj\x86\Debug\Login.csproj.GenerateResource.Cache
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.5\Login\obj\x86\Debug\Login.exe
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.5\Login\obj\x86\Debug\Login.pdb
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.5\Login\obj\x86\Debug\Login.CustomerWindow.resources
+E:\Assignment2.2.6\Login\bin\Debug\Login.exe.config
+E:\Assignment2.2.6\Login\obj\x86\Debug\Login.exe
+E:\Assignment2.2.6\Login\obj\x86\Debug\Login.pdb
+E:\Assignment2.2.6\Login\bin\Debug\Database.sdf
+E:\Assignment2.2.6\Login\bin\Debug\Login.exe
+E:\Assignment2.2.6\Login\bin\Debug\Login.pdb
+E:\Assignment2.2.6\Login\obj\x86\Debug\Login.csprojResolveAssemblyReference.cache
+E:\Assignment2.2.6\Login\obj\x86\Debug\Login.CustomerWindow.resources
+E:\Assignment2.2.6\Login\obj\x86\Debug\Login.LoginRecordWindow.resources
+E:\Assignment2.2.6\Login\obj\x86\Debug\Login.Main.resources
+E:\Assignment2.2.6\Login\obj\x86\Debug\Login.NewProductWindow.resources
+E:\Assignment2.2.6\Login\obj\x86\Debug\Login.Properties.Resources.resources
+E:\Assignment2.2.6\Login\obj\x86\Debug\Login.SalesReportWindow.resources
+E:\Assignment2.2.6\Login\obj\x86\Debug\Login.csproj.GenerateResource.Cache
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.6\Login\bin\Debug\Login.exe.config
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.6\Login\obj\x86\Debug\Login.exe
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.6\Login\obj\x86\Debug\Login.pdb
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.6\Login\bin\Debug\Database.sdf
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.6\Login\bin\Debug\Login.exe
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.6\Login\bin\Debug\Login.pdb
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.6\Login\obj\x86\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.6\Login\obj\x86\Debug\Login.CustomerWindow.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.6\Login\obj\x86\Debug\Login.LoginRecordWindow.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.6\Login\obj\x86\Debug\Login.Main.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.6\Login\obj\x86\Debug\Login.NewProductWindow.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.6\Login\obj\x86\Debug\Login.Properties.Resources.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.6\Login\obj\x86\Debug\Login.SalesReportWindow.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.6\Login\obj\x86\Debug\Login.csproj.GenerateResource.Cache
+C:\Users\15002082\Desktop\Assignment2.2.7\Login\bin\Debug\Login.exe.config
+C:\Users\15002082\Desktop\Assignment2.2.7\Login\obj\x86\Debug\Login.exe
+C:\Users\15002082\Desktop\Assignment2.2.7\Login\obj\x86\Debug\Login.pdb
+C:\Users\15002082\Desktop\Assignment2.2.7\Login\bin\Debug\Database.sdf
+C:\Users\15002082\Desktop\Assignment2.2.7\Login\bin\Debug\Login.exe
+C:\Users\15002082\Desktop\Assignment2.2.7\Login\bin\Debug\Login.pdb
+C:\Users\15002082\Desktop\Assignment2.2.7\Login\obj\x86\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\15002082\Desktop\Assignment2.2.7\Login\obj\x86\Debug\Login.CustomerWindow.resources
+C:\Users\15002082\Desktop\Assignment2.2.7\Login\obj\x86\Debug\Login.LoginRecordWindow.resources
+C:\Users\15002082\Desktop\Assignment2.2.7\Login\obj\x86\Debug\Login.Main.resources
+C:\Users\15002082\Desktop\Assignment2.2.7\Login\obj\x86\Debug\Login.NewProductWindow.resources
+C:\Users\15002082\Desktop\Assignment2.2.7\Login\obj\x86\Debug\Login.Properties.Resources.resources
+C:\Users\15002082\Desktop\Assignment2.2.7\Login\obj\x86\Debug\Login.SalesReportWindow.resources
+C:\Users\15002082\Desktop\Assignment2.2.7\Login\obj\x86\Debug\Login.csproj.GenerateResource.Cache
+C:\Users\15002082\Desktop\Assignment2.2.7\Login\obj\x86\Debug\Login.NewEmployeeWindow.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.7\Login\bin\Debug\Login.exe.config
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.7\Login\obj\x86\Debug\Login.exe
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.7\Login\obj\x86\Debug\Login.pdb
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.7\Login\bin\Debug\Database.sdf
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.7\Login\bin\Debug\Login.exe
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.7\Login\bin\Debug\Login.pdb
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.7\Login\obj\x86\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.7\Login\obj\x86\Debug\Login.CustomerWindow.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.7\Login\obj\x86\Debug\Login.LoginRecordWindow.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.7\Login\obj\x86\Debug\Login.Main.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.7\Login\obj\x86\Debug\Login.NewEmployeeWindow.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.7\Login\obj\x86\Debug\Login.NewProductWindow.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.7\Login\obj\x86\Debug\Login.Properties.Resources.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.7\Login\obj\x86\Debug\Login.SalesReportWindow.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.7\Login\obj\x86\Debug\Login.csproj.GenerateResource.Cache
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.7\Login\obj\x86\Debug\Login.PurchaseStock.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.8\Login\bin\Debug\Login.exe.config
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.8\Login\obj\x86\Debug\Login.exe
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.8\Login\obj\x86\Debug\Login.pdb
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.8\Login\bin\Debug\Database.sdf
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.8\Login\bin\Debug\Login.exe
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.8\Login\bin\Debug\Login.pdb
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.8\Login\obj\x86\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.8\Login\obj\x86\Debug\Login.CustomerWindow.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.8\Login\obj\x86\Debug\Login.LoginRecordWindow.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.8\Login\obj\x86\Debug\Login.NewEmployeeWindow.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.8\Login\obj\x86\Debug\Login.NewProductWindow.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.8\Login\obj\x86\Debug\Login.Properties.Resources.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.8\Login\obj\x86\Debug\Login.PurchaseStock.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.8\Login\obj\x86\Debug\Login.SalesReportWindow.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.8\Login\obj\x86\Debug\Login.csproj.GenerateResource.Cache
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.8\Login\obj\x86\Debug\Login.Help.resources
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Assignment2.2.8\Login\bin\Debug\Login.exe.config
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Assignment2.2.8\Login\obj\x86\Debug\Login.exe
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Assignment2.2.8\Login\obj\x86\Debug\Login.pdb
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Assignment2.2.8\Login\bin\Debug\Database.sdf
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Assignment2.2.8\Login\bin\Debug\Login.exe
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Assignment2.2.8\Login\bin\Debug\Login.pdb
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Assignment2.2.8\Login\obj\x86\Debug\Login.csprojResolveAssemblyReference.cache
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Assignment2.2.8\Login\obj\x86\Debug\Login.CustomerWindow.resources
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Assignment2.2.8\Login\obj\x86\Debug\Login.Help.resources
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Assignment2.2.8\Login\obj\x86\Debug\Login.LoginRecordWindow.resources
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Assignment2.2.8\Login\obj\x86\Debug\Login.Main.resources
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Assignment2.2.8\Login\obj\x86\Debug\Login.NewEmployeeWindow.resources
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Assignment2.2.8\Login\obj\x86\Debug\Login.NewProductWindow.resources
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Assignment2.2.8\Login\obj\x86\Debug\Login.Properties.Resources.resources
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Assignment2.2.8\Login\obj\x86\Debug\Login.PurchaseStock.resources
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Assignment2.2.8\Login\obj\x86\Debug\Login.SalesReportWindow.resources
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Assignment2.2.8\Login\obj\x86\Debug\Login.csproj.GenerateResource.Cache
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.8\Login\obj\x86\Debug\Login.ChooseProductForm.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.8\Login\obj\x86\Debug\Login.EditOrder.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.8\Login\obj\x86\Debug\Login.Receipt.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.8\Login\obj\x86\Debug\Login.Sales.resources
+C:\Users\DELL\Desktop\Assignment2.2.9\Login\obj\x86\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\Assignment2.2.9\Login\obj\x86\Debug\Login.ChooseProductForm.resources
+C:\Users\DELL\Desktop\Assignment2.2.9\Login\obj\x86\Debug\Login.CustomerWindow.resources
+C:\Users\DELL\Desktop\Assignment2.2.9\Login\obj\x86\Debug\Login.EditOrder.resources
+C:\Users\DELL\Desktop\Assignment2.2.9\Login\obj\x86\Debug\Login.Help.resources
+C:\Users\DELL\Desktop\Assignment2.2.9\Login\obj\x86\Debug\Login.LoginRecordWindow.resources
+C:\Users\DELL\Desktop\Assignment2.2.9\Login\obj\x86\Debug\Login.Sales.resources
+C:\Users\DELL\Desktop\Assignment2.2.9\Login\obj\x86\Debug\Login.NewEmployeeWindow.resources
+C:\Users\DELL\Desktop\Assignment2.2.9\Login\obj\x86\Debug\Login.NewProductWindow.resources
+C:\Users\DELL\Desktop\Assignment2.2.9\Login\obj\x86\Debug\Login.Properties.Resources.resources
+C:\Users\DELL\Desktop\Assignment2.2.9\Login\obj\x86\Debug\Login.PurchaseStock.resources
+C:\Users\DELL\Desktop\Assignment2.2.9\Login\obj\x86\Debug\Login.Receipt.resources
+C:\Users\DELL\Desktop\Assignment2.2.9\Login\obj\x86\Debug\Login.SalesReportWindow.resources
+C:\Users\DELL\Desktop\Assignment2.2.9\Login\obj\x86\Debug\Login.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\Assignment2.2.9\Login\obj\x86\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Assignment2.2.9\Login\obj\x86\Debug\Login.exe
+C:\Users\DELL\Desktop\Assignment2.2.9\Login\obj\x86\Debug\Login.pdb
+C:\Users\DELL\Desktop\Assignment2.2.9\Login\bin\Debug\Database.sdf
+C:\Users\DELL\Desktop\Assignment2.2.9\Login\bin\Debug\Login.exe.config
+C:\Users\DELL\Desktop\Assignment2.2.9\Login\bin\Debug\Login.exe
+C:\Users\DELL\Desktop\Assignment2.2.9\Login\bin\Debug\Login.pdb
+C:\Users\DELL\Desktop\Assignment2.2.9\Login\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\DELL\Desktop\Assignment2.2.9\Login\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.9\Login\bin\Debug\Login.exe.config
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.9\Login\obj\x86\Debug\Login.exe
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.9\Login\obj\x86\Debug\Login.pdb

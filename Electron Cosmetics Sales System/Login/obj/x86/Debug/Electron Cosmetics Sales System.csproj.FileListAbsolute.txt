@@ -1,0 +1,129 @@
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.9\Login\bin\Debug\Database.sdf
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.9\Login\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.9\Login\obj\x86\Debug\Electron Cosmetics Sales System.csprojResolveAssemblyReference.cache
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.9\Login\obj\x86\Debug\Login.ChooseProductForm.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.9\Login\obj\x86\Debug\Login.CustomerWindow.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.9\Login\obj\x86\Debug\Login.EditOrder.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.9\Login\obj\x86\Debug\Login.Help.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.9\Login\obj\x86\Debug\Login.LoginRecordWindow.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.9\Login\obj\x86\Debug\Login.Sales.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.9\Login\obj\x86\Debug\Login.NewEmployeeWindow.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.9\Login\obj\x86\Debug\Login.NewProductWindow.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.9\Login\obj\x86\Debug\Login.Properties.Resources.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.9\Login\obj\x86\Debug\Login.PurchaseStock.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.9\Login\obj\x86\Debug\Login.Receipt.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.9\Login\obj\x86\Debug\Login.SalesReportWindow.resources
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.9\Login\obj\x86\Debug\Electron Cosmetics Sales System.csproj.GenerateResource.Cache
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.9\Login\bin\Debug\Electron Cosmetics.exe.config
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.9\Login\bin\Debug\Electron Cosmetics.exe
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.9\Login\bin\Debug\Electron Cosmetics.pdb
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.9\Login\obj\x86\Debug\Electron Cosmetics.exe
+C:\Users\Kwang Yuen\Desktop\Assignment2.2.9\Login\obj\x86\Debug\Electron Cosmetics.pdb
+C:\Users\15002082\Desktop\Electron Cosmetics Sales System\Login\bin\Debug\Electron Cosmetics.exe.config
+C:\Users\15002082\Desktop\Electron Cosmetics Sales System\Login\obj\x86\Debug\Electron Cosmetics.exe
+C:\Users\15002082\Desktop\Electron Cosmetics Sales System\Login\obj\x86\Debug\Electron Cosmetics.pdb
+C:\Users\15002082\Desktop\Electron Cosmetics Sales System\Login\bin\Debug\Database.sdf
+C:\Users\15002082\Desktop\Electron Cosmetics Sales System\Login\bin\Debug\Electron Cosmetics.exe
+C:\Users\15002082\Desktop\Electron Cosmetics Sales System\Login\bin\Debug\Electron Cosmetics.pdb
+C:\Users\15002082\Desktop\Electron Cosmetics Sales System\Login\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\15002082\Desktop\Electron Cosmetics Sales System\Login\obj\x86\Debug\Electron Cosmetics Sales System.csprojResolveAssemblyReference.cache
+C:\Users\15002082\Desktop\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.ChooseProductForm.resources
+C:\Users\15002082\Desktop\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.CustomerWindow.resources
+C:\Users\15002082\Desktop\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.EditOrder.resources
+C:\Users\15002082\Desktop\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.Help.resources
+C:\Users\15002082\Desktop\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.LoginRecordWindow.resources
+C:\Users\15002082\Desktop\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.Sales.resources
+C:\Users\15002082\Desktop\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.NewEmployeeWindow.resources
+C:\Users\15002082\Desktop\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.NewProductWindow.resources
+C:\Users\15002082\Desktop\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.Properties.Resources.resources
+C:\Users\15002082\Desktop\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.PurchaseStock.resources
+C:\Users\15002082\Desktop\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.Receipt.resources
+C:\Users\15002082\Desktop\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.SalesReportWindow.resources
+C:\Users\15002082\Desktop\Electron Cosmetics Sales System\Login\obj\x86\Debug\Electron Cosmetics Sales System.csproj.GenerateResource.Cache
+\\Client\C$\Users\kwangyuen\Desktop\Electron Cosmetics Sales System\Login\bin\Debug\Electron Cosmetics.exe.config
+\\Client\C$\Users\kwangyuen\Desktop\Electron Cosmetics Sales System\Login\obj\x86\Debug\Electron Cosmetics.exe
+\\Client\C$\Users\kwangyuen\Desktop\Electron Cosmetics Sales System\Login\obj\x86\Debug\Electron Cosmetics.pdb
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Electron Cosmetics Sales System\Login\bin\Debug\Electron Cosmetics.exe.config
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Electron Cosmetics Sales System\Login\obj\x86\Debug\Electron Cosmetics.exe
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Electron Cosmetics Sales System\Login\obj\x86\Debug\Electron Cosmetics.pdb
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Electron Cosmetics Sales System\Login\obj\x86\Debug\Electron Cosmetics Sales System.csprojResolveAssemblyReference.cache
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.ChooseProductForm.resources
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.CustomerWindow.resources
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.EditOrder.resources
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.Help.resources
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.LoginRecordWindow.resources
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.Sales.resources
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.NewEmployeeWindow.resources
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.NewProductWindow.resources
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.Properties.Resources.resources
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.PurchaseStock.resources
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.Receipt.resources
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.SalesReportWindow.resources
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Electron Cosmetics Sales System\Login\obj\x86\Debug\Electron Cosmetics Sales System.csproj.GenerateResource.Cache
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Electron Cosmetics Sales System\Login\bin\Debug\Database.sdf
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Electron Cosmetics Sales System\Login\bin\Debug\Electron Cosmetics.exe
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Electron Cosmetics Sales System\Login\bin\Debug\Electron Cosmetics.pdb
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Electron Cosmetics Sales System\Login\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\bin\Debug\Database.sdf
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\bin\Debug\Electron Cosmetics.exe.config
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\bin\Debug\Electron Cosmetics.exe
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\bin\Debug\Electron Cosmetics.pdb
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.ChooseProductForm.resources
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.CustomerWindow.resources
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.EditOrder.resources
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.Help.resources
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.LoginRecordWindow.resources
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.Sales.resources
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.NewEmployeeWindow.resources
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.NewProductWindow.resources
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.Properties.Resources.resources
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.PurchaseStock.resources
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.Receipt.resources
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.SalesReportWindow.resources
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Electron Cosmetics Sales System.csproj.GenerateResource.Cache
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Electron Cosmetics.exe
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Electron Cosmetics.pdb
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\bin\Debug\Electron Cosmetics.exe.config
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Electron Cosmetics.exe
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Electron Cosmetics.pdb
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Electron Cosmetics Sales System.csprojResolveAssemblyReference.cache
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.ChooseProductForm.resources
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.CustomerWindow.resources
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.EditOrder.resources
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.Help.resources
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.LoginRecordWindow.resources
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.Sales.resources
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.NewEmployeeWindow.resources
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.NewProductWindow.resources
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.Properties.Resources.resources
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.PurchaseStock.resources
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.Receipt.resources
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.SalesReportWindow.resources
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Electron Cosmetics Sales System.csproj.GenerateResource.Cache
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\bin\Debug\Database.sdf
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\bin\Debug\Electron Cosmetics.exe
+E:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\bin\Debug\Electron Cosmetics.pdb
+F:\Computer Science\Year 2\Sem 6\C#\Assingment\Final Version\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Electron Cosmetics Sales System.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\CSC2205_15002082\Electron Cosmetics Sales System\Login\bin\Debug\Database.sdf
+C:\Users\DELL\Desktop\CSC2205_15002082\Electron Cosmetics Sales System\Login\bin\Debug\Electron Cosmetics.exe.config
+C:\Users\DELL\Desktop\CSC2205_15002082\Electron Cosmetics Sales System\Login\bin\Debug\Electron Cosmetics.exe
+C:\Users\DELL\Desktop\CSC2205_15002082\Electron Cosmetics Sales System\Login\bin\Debug\Electron Cosmetics.pdb
+C:\Users\DELL\Desktop\CSC2205_15002082\Electron Cosmetics Sales System\Login\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\DELL\Desktop\CSC2205_15002082\Electron Cosmetics Sales System\Login\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\DELL\Desktop\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Electron Cosmetics Sales System.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.ChooseProductForm.resources
+C:\Users\DELL\Desktop\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.CustomerWindow.resources
+C:\Users\DELL\Desktop\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.EditOrder.resources
+C:\Users\DELL\Desktop\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.Help.resources
+C:\Users\DELL\Desktop\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.LoginRecordWindow.resources
+C:\Users\DELL\Desktop\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.Sales.resources
+C:\Users\DELL\Desktop\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.NewEmployeeWindow.resources
+C:\Users\DELL\Desktop\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.NewProductWindow.resources
+C:\Users\DELL\Desktop\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.Properties.Resources.resources
+C:\Users\DELL\Desktop\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.PurchaseStock.resources
+C:\Users\DELL\Desktop\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.Receipt.resources
+C:\Users\DELL\Desktop\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Login.SalesReportWindow.resources
+C:\Users\DELL\Desktop\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Electron Cosmetics Sales System.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Electron Cosmetics Sales System.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Electron Cosmetics.exe
+C:\Users\DELL\Desktop\CSC2205_15002082\Electron Cosmetics Sales System\Login\obj\x86\Debug\Electron Cosmetics.pdb

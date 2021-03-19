@@ -1,0 +1,28 @@
+//SIMPLE INSTRUCTIONS ON HOW TO USE THE SYSTEM
+
+-----------LOGGING IN-----------
+
+1. Login to the system with the following credentials
+	
+	Username				Password
+	____________________________________________________
+	Kwang Yuen				15002082
+	Khai Liang				15027410
+
+	Marcus					15024490
+
+	Hann Zern				15024060
+	ShenYang				16013757
+	Johnny Chang				1234
+
+2. Press 'Login'
+
+
+
+-----------SALES REPORT-----------
+
+To See the Sales Report For a particular day, currently there is only two days with sales made:
+	1. 27/11/2017
+	2. 28/11/2017
+
+1. Select either one the dates above to use the function

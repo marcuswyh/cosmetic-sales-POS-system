@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{EEE3D2D0-8EAF-446C-8387-D6186AFE43F3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Login/Account.cs">
+    <Files>
+      <File FileName="Login/Account.cs" Line="5" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Login PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
